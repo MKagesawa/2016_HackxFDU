@@ -1,24 +1,27 @@
-# README
+# Zouwa 走挖
+HackxFDU project, October 14 - 16 2016.
+https://www.hackx.org/competitions/hackxfdu2016
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+通过我们开发的新式社交APP你可以在某个时刻所在的地方埋藏照片和文章，只有到了你指定的位置的人才能挖掘你的故事。因为用户共享的故事比较隐蔽，他们将会展现更真实的自己。我们希望成为社交网和现实生活的交叉点并且提供独特的图片故事共享，真诚的用户间互动体验。
+Social medias are increasingly becoming disconnected to the real world. We hope to encourage people to go out explore their city and hear others’ stories. As stories “buried” with our app may not necessarily be seen by people our users know, we expect the users to share much truthful and authentic experiences.
 
-Things you may want to cover:
+## 描述项目：
 
-* Ruby version
+大家好我们是走挖，
+你有没有想过你现在站的地方曾经有多少不一样的故事发生过
+通过我们开发的新式社交APP你可以在特定的地方埋藏照片和文章，只有到了你指定的位置的人才能挖掘你的故事
 
-* System dependencies
+当今的社交网络已变成了似乎虚拟的世界，越来越脱离我们的现实生活。在朋友圈上看到的并打不动不理我们的心里。
+在这两天做了  100人的问卷回答。百分之80的人感觉社交网络脱离了我们现实生活。他们大多数觉得社交网络缺乏真实性和交流方式单调。
 
-* Configuration
+我们为什么去做这样的APP呢？
+第一，	我们提供全新的交流方式以增加社交新鲜感。
+第二，	提供真诚的内容。因为用户共享的故事比较隐蔽，他们将会展现更真实的自己。
+第三，	给用户机会去扩展和自己同样爱好的人的社交圈
 
-* Database creation
+比如说我今天我来到了复旦创客活动。我们不幸没有赢取奖心里不太舒服想和别人分享我的感受。可是在朋友圈上我想把我最好的一面展现给别人所以我不想发上去。利用走挖，我吧我的真实的感想埋在了这里。今后有可能永久埋在这里，或者在这里比赛的人会在这里发现我今年的故事。
 
-* Database initialization
+我们的商业模式是和企业合作抽取佣金。我们在走挖上挖到的钻石可以是一个故事，可以是一个红包，甚至可能是一个新餐馆的优惠券。比方说一家商家可能会埋下5颗钻石，只有全部都收集到的人可以获得一些礼品。
+和旅游公司我们也会合作。用过途牛网的人知道用它们服务之后要提交一份评价才能获得积分。用走挖的话用户可以在去的地方埋一颗钻石，写下美好的回忆，获得积分。
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+走挖，走到哪里都能挖到新的故事
